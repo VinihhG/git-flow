@@ -12,7 +12,7 @@ git flow release start <VERSAO_PROJETO>
 
 Obs: Se der BUG eu resolvo na própria RELEASE
 
-git flow release finish <VERSAO_PROJE>
+git flow release finish <VERSAO_PROJETO>
 
 
 
