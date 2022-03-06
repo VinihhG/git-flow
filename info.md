@@ -10,7 +10,7 @@ git flow feature finish <NOME_FEATURE> -> Termina uma nova feature
 
 git flow release start <VERSAO_PROJETO>
 
-Obs: Se der BUG eu resolvo na própria RELEASE
+<b>Obs:</b> Se der BUG eu resolvo na própria RELEASE
 
 git flow release finish <VERSAO_PROJETO>
 
