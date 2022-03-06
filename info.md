@@ -14,6 +14,14 @@ git flow release start <VERSAO_PROJETO>
 
 git flow release finish <VERSAO_PROJETO>
 
+## Finalizando
+Subir as atualizações
+git push origin --all
+
+## No Servidor
+git tag
+git checkout <TAG>
+
 
 
 ## Publicar branch para outros DEVS
