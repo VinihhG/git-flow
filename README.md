@@ -19,9 +19,7 @@ git flow release start <VERSAO_PROJETO>
 git flow release finish <VERSAO_PROJETO>
 
 <b>Obs:</b> Em casos de pequenas alterações ou BUGS simples, estes podem ser resolvidos dentro na própria release branch.
-## Finalizando
-Subir as atualizações
-git push origin --all
+
 
 
 ## Publicar branch para outros DEVS
